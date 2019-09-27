@@ -20,6 +20,9 @@ const initialState = {
   ]
 }
 
+const blabla = "blabla";
+//Es Funktioniert!
+
 class App extends Component {
 
   state = initialState;
